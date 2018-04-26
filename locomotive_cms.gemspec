@@ -7,7 +7,7 @@ $:.unshift lib unless $:.include?(lib)
 require 'locomotive/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'locomotivecms'
+  s.name        = 'locomotivecms_fusion'
   s.version     = Locomotive::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Didier Lafforgue']
