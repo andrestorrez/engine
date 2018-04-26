@@ -5,7 +5,7 @@ require 'locomotive/version'
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = 'locomotivecms'
+  s.name        = 'locomotivecms_fusion'
   s.version     = Locomotive::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Didier Lafforgue']
