@@ -41,3 +41,7 @@
 @import "new/navigation";
 @import "new/notify";
 @import "new/public";
+
+.public-entry.is-add {
+  display: none !important;
+}
